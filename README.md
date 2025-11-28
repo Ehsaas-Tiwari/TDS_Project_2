@@ -1,3 +1,13 @@
+---
+title: LLM Analysis Quiz Solver
+emoji: 🧠
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
+
 # LLM Analysis Quiz – Automated Solver
 
 This project implements an automated agent that solves data-related quiz tasks using LLMs, Playwright scraping, and dynamic code execution. It exposes a FastAPI /solve endpoint that the evaluator will call during the exam.
