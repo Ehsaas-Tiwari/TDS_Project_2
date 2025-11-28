@@ -1589,7 +1589,7 @@ requires-dist = [
     { name = "langchain", specifier = ">=0.2.0" },
     { name = "langchain-community", specifier = ">=0.2.0" },
     { name = "langchain-google-genai", specifier = ">=1.0.0" },
-    { name = "langgraph", specifier = ">=1.0.3" },
+    { name = "langgraph", specifier = ">=0.0.42" },
     { name = "pandas", specifier = ">=2.3.3" },
     { name = "playwright", specifier = ">=1.56.0" },
     { name = "python-dotenv", specifier = ">=1.2.1" },

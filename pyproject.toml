@@ -7,7 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "playwright>=1.56.0",
     "beautifulsoup4>=4.14.2",
-    "langgraph>=1.0.3",
+    "langgraph>=0.0.42",
     "langchain>=0.2.0",
     "langchain-community>=0.2.0",
     "langchain-google-genai>=1.0.0",
