@@ -35,19 +35,6 @@ POST /solve
 
 The agent continues solving the quiz in the background.
 
-## 📂 Project Structure
-project/
-├── agent.py
-├── main.py
-├── tools/
-│   ├── web_scraper.py
-│   ├── code_generate_and_run.py
-│   ├── download_file.py
-│   └── send_request.py
-├── pyproject.toml
-├── Dockerfile
-└── README.md
-
 ## 🔒 Environment Variables
 
 Create .env:
